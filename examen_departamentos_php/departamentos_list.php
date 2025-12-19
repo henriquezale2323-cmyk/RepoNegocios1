@@ -1,0 +1,1 @@
+<?php include 'conexion.php'; $r=$conn->query('SELECT * FROM departamentos');?>
